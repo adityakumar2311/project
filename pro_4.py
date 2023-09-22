@@ -3,7 +3,7 @@ from tkinter.filedialog import asksaveasfilename,askopenfilename
 import subprocess
 
 root=Tk()
-root.title("Python IDE by HIT")
+root.title("Python IDE")
 # root.attributes('-fullscreen',True)
 file_path=''
 
